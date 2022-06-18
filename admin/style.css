@@ -1,0 +1,18 @@
+.container{
+    margin-top: 150px;
+}
+
+.card{
+    background-color: blue;
+    width: 100%;
+    padding: 30px;
+}
+
+.container .card-body{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.container .card-body table thead tr th {
+    padding: 20px;
+}
